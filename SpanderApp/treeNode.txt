@@ -1,1 +1,1 @@
-{"name":"amirGood-Test","uniqueIndex":0,"childNodes":[{"name":"main 0 parent node","uniqueIndex":561,"childNodes":[],"nonGithubIssueDetail":{"markAsDone":false},"isGithubIssue":false,"issueDetails":{}}],"parentNode":null,"isGithubIssue":false}
+{"name":"amirGood-Test","uniqueIndex":0,"childNodes":[{"name":"main parent node","uniqueIndex":281,"childNodes":[],"parentNode":{"name":"amirGood-Test","uniqueIndex":0,"parentNode":null,"isGithubIssue":false},"nonGithubIssueDetail":{"markAsDone":false},"isGithubIssue":false,"issueDetails":{}}],"parentNode":null,"isGithubIssue":false}
